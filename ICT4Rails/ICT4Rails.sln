@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICT4Rails", "ICT4Rails\ICT4Rails.csproj", "{DD678FB5-E64A-43EB-AF0D-596B06A43E5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICT4Rails_ASP", "ICT4Rails_ASP\ICT4Rails_ASP.csproj", "{4A42D61B-500F-4B23-9341-6FF7ABD1E17D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestDatabaseTestProject", "UnitTestDatabaseTestProject\UnitTestDatabaseTestProject.csproj", "{5509B63E-1B8D-4673-B7B7-022243139F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD678FB5-E64A-43EB-AF0D-596B06A43E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD678FB5-E64A-43EB-AF0D-596B06A43E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD678FB5-E64A-43EB-AF0D-596B06A43E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD678FB5-E64A-43EB-AF0D-596B06A43E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A42D61B-500F-4B23-9341-6FF7ABD1E17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A42D61B-500F-4B23-9341-6FF7ABD1E17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A42D61B-500F-4B23-9341-6FF7ABD1E17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A42D61B-500F-4B23-9341-6FF7ABD1E17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5509B63E-1B8D-4673-B7B7-022243139F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5509B63E-1B8D-4673-B7B7-022243139F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5509B63E-1B8D-4673-B7B7-022243139F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5509B63E-1B8D-4673-B7B7-022243139F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
